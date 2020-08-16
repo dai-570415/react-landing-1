@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dai-570415/react-landing-1.git/static/css/main.8be37835.chunk.css",
+    "main.js": "/dai-570415/react-landing-1.git/static/js/main.cc1640eb.chunk.js",
+    "main.js.map": "/dai-570415/react-landing-1.git/static/js/main.cc1640eb.chunk.js.map",
+    "runtime-main.js": "/dai-570415/react-landing-1.git/static/js/runtime-main.0f85d0d2.js",
+    "runtime-main.js.map": "/dai-570415/react-landing-1.git/static/js/runtime-main.0f85d0d2.js.map",
+    "static/js/2.f4defe20.chunk.js": "/dai-570415/react-landing-1.git/static/js/2.f4defe20.chunk.js",
+    "static/js/2.f4defe20.chunk.js.map": "/dai-570415/react-landing-1.git/static/js/2.f4defe20.chunk.js.map",
+    "index.html": "/dai-570415/react-landing-1.git/index.html",
+    "precache-manifest.270e232f05310c4d1d906a33afa702ba.js": "/dai-570415/react-landing-1.git/precache-manifest.270e232f05310c4d1d906a33afa702ba.js",
+    "service-worker.js": "/dai-570415/react-landing-1.git/service-worker.js",
+    "static/css/main.8be37835.chunk.css.map": "/dai-570415/react-landing-1.git/static/css/main.8be37835.chunk.css.map",
+    "static/js/2.f4defe20.chunk.js.LICENSE.txt": "/dai-570415/react-landing-1.git/static/js/2.f4defe20.chunk.js.LICENSE.txt",
+    "static/media/confirm.png": "/dai-570415/react-landing-1.git/static/media/confirm.2bc2f648.png",
+    "static/media/example1.png": "/dai-570415/react-landing-1.git/static/media/example1.dc33fdf1.png",
+    "static/media/example2.png": "/dai-570415/react-landing-1.git/static/media/example2.b83b0838.png",
+    "static/media/mail.png": "/dai-570415/react-landing-1.git/static/media/mail.74277c6f.png",
+    "static/media/main.png": "/dai-570415/react-landing-1.git/static/media/main.46919e18.png",
+    "static/media/pc_sp.png": "/dai-570415/react-landing-1.git/static/media/pc_sp.540bde37.png",
+    "static/media/service.png": "/dai-570415/react-landing-1.git/static/media/service.398e1fed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f85d0d2.js",
+    "static/js/2.f4defe20.chunk.js",
+    "static/css/main.8be37835.chunk.css",
+    "static/js/main.cc1640eb.chunk.js"
+  ]
+}
